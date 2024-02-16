@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.api.apirestdemo.ApiRestDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.675 s -- in org.api.apirestdemo.ApiRestDemoApplicationTests
