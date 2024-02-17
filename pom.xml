@@ -45,7 +45,7 @@
     </dependencies>
 
     <build>
-        <finalName>api-rest-demo</finalName>
+        <finalName>api-rest-demo-1</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
